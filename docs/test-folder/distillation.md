@@ -2,15 +2,6 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-$$z \sim P(Z)$$
-
-
-$$
-f(x) = \sum_{k=1}^{K}\alpha_{k}
-$$
-
-Note: div version does not work but span does.
-
 <span>$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$</span>
 
 $$z \sim P(Z)$$
