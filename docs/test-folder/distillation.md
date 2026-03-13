@@ -5,26 +5,11 @@
 $$z \sim P(Z)$$
 
 
-
-
-{::nomarkdown}  
-\begin{equation}
-(A)'_{i,j} = A_{j,i}
-\end{equation}
-{:/}  
-
-
 $$
 f(x) = \sum_{k=1}^{K}\alpha_{k}
 $$
 
-{::nomarkdown}
-$$ E=mc^2 $$
-{:/}
-
-<div>
-$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
-</div>
+Note: div version does not work but span does.
 
 <span>$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$</span>
 
