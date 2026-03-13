@@ -1,3 +1,7 @@
+$$
+f(x) = \sum_{k=1}^{K}\alpha_{k}
+$$
+
 {::nomarkdown}
 $$ E=mc^2 $$
 {:/}
