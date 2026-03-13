@@ -30,9 +30,6 @@ $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
 
 $$z \sim P(Z)$$
 
-```math
-z \sim P(Z)
-```
 
 <figure align="center" id="fig-teaser">
 
