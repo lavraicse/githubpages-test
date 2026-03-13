@@ -1,4 +1,4 @@
-abc
+$z \sim P(Z)$: prompts drawn from some prompt distribution
 
 <figure align="center" id="fig-teaser">
 
@@ -19,3 +19,5 @@ abc
 </figcaption>
 
 </figure>
+
+
