@@ -1,3 +1,12 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+$$z \sim P(Z)$$
+
+
+
+
 {::nomarkdown}  
 \begin{equation}
 (A)'_{i,j} = A_{j,i}
