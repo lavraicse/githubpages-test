@@ -28,9 +28,6 @@ $$f(x) = \sum_{k=1}^{K}\alpha_{k}$$
 
 <span>$$f(x) = \sum_{k=1}^{K}\alpha_{k}$$</span>
 
-
-\(z \sim P(Z)\): prompts drawn from some prompt distribution
-
 $$z \sim P(Z)$$
 
 ```math
