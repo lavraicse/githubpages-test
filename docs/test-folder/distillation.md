@@ -1,4 +1,4 @@
-$z \sim P(Z)$: prompts drawn from some prompt distribution
+$$z \sim P(Z)$$: prompts drawn from some prompt distribution
 
 <figure align="center" id="fig-teaser">
 
