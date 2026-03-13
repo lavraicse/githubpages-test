@@ -1,3 +1,10 @@
+{::nomarkdown}  
+\begin{equation}
+(A)'_{i,j} = A_{j,i}
+\end{equation}
+{:/}  
+
+
 $$
 f(x) = \sum_{k=1}^{K}\alpha_{k}
 $$
