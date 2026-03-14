@@ -1,13 +1,20 @@
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+</script><br>
+
+
+<figure align="center" id="qr-code">
+  <img src="images/qr_code.png" width="20%"><br>
+</figure>
+
+
 
 
 <figure align="center" id="qr-code">
 <table align="center" width="80%">
   <tr>
     <td align="center" width="100%">
-      <img src="images/qr_code.png" width="70%"><br>
+      <img src="images/qr_code.png" width="20%"><br>
     </td>
   </tr>
 </table>
