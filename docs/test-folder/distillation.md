@@ -1,6 +1,6 @@
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script><br><br><br>
+</script><br><br>
 
 
 <figure align="center" id="qr-code">
