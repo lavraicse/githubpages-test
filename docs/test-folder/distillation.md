@@ -2,15 +2,19 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+<br>
+
 <figure align="center" id="qr-code">
 <table align="center" width="80%">
   <tr>
     <td align="center" width="100%">
-      <img src="images/qr_code.png" width="100%"><br>
+      <img src="images/qr_code.png" width="70%"><br>
     </td>
   </tr>
 </table>
 </figure>
+
+<br>
 
 # Model Distillation Best Practices
 
