@@ -4,17 +4,10 @@
 
 
 <figure align="center" id="qr-code">
-  <img src="images/qr_code.png" width="20%"><br>
-</figure>
-
-
-
-
-<figure align="center" id="qr-code">
 <table align="center" width="80%">
   <tr>
     <td align="center" width="100%">
-      <img src="images/qr_code.png" width="20%"><br>
+      <img src="images/qr_code.png" width="50%"><br>
     </td>
   </tr>
 </table>
