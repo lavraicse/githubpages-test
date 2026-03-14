@@ -46,7 +46,7 @@ Only output the final answer in valid JSON format wrapped in a markdown code blo
 {question}
 ````
 
-**$\tau^2$-bench**
+**<span>$$\tau^2$$</span>-bench**
 
 ```
 {question}
@@ -182,7 +182,7 @@ This section provides supplementary results on individual math benchmarks.
 
 </figure>
 
-### $\tau^2$-bench Individual Domain Results
+### <span>$$\tau^2$$</span>-bench Individual Domain Results
 
 **[Choosing Teacher Models](./model_distillation_best_practices.md#choosing-teacher-models)**
 
@@ -270,7 +270,7 @@ This section provides supplementary results on individual math benchmarks.
 
 ### Acceptance Rates for Rejection Sampling
 
-[Table 2](#tab-accept-rates) presents the acceptance rates across four different tasks using six different teacher models. For Qwen3-235B-A22B-Thinking-2507 and GLM 4.7, these models were specifically utilized for generating responses for RE-ARC and $\tau^2$-bench synthetic data, respectively. Notably, a significant performance jump was observed in RE-ARC when using the more recent 2507 version.
+[Table 2](#tab-accept-rates) presents the acceptance rates across four different tasks using six different teacher models. For Qwen3-235B-A22B-Thinking-2507 and GLM 4.7, these models were specifically utilized for generating responses for RE-ARC and <span>$$\tau^2$$</span>-bench synthetic data, respectively. Notably, a significant performance jump was observed in RE-ARC when using the more recent 2507 version.
 
 <table id="tab-accept-rates" style="margin-left:auto; margin-right:auto;">
   <thead>
@@ -329,7 +329,7 @@ This section provides supplementary results on individual math benchmarks.
   <caption style="text-align: left;"><b>Table 2:</b> Acceptance rates for rejection sampling across various tasks using different teacher models.</caption>
 </table>
 
-### $\tau^2$-bench Synthetic Example
+### <span>$$\tau^2$$</span>-bench Synthetic Example
 
 Below, we attach one synthetic sample generated following the process described in Section [Agentic Task (Tool Utilization)](./model_distillation_best_practices.md#agentic-task-tool-utilization).
 
