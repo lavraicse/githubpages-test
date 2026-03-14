@@ -2,7 +2,6 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-<br>
 
 <figure align="center" id="qr-code">
 <table align="center" width="80%">
@@ -14,7 +13,6 @@
 </table>
 </figure>
 
-<br>
 
 # Model Distillation Best Practices
 
