@@ -141,7 +141,7 @@ This pipeline successfully distilled the initial pool into 70,373 high-fidelity 
 
 The [re-arc](https://github.com/michaelhodel/re-arc?tab=readme-ov-file) repository provides a way to programmatically synthesize [ARC-AGI-1](https://arcprize.org/arc-agi/1/) data. For each of the 400 training examples in the official ARC-AGI-1 dataset, re-arc provides a generator function to create similar puzzles following the same pattern (See [Figure 2](#fig-rearc-example) for one example). In total, we have generated 7926 puzzles for our experiments where we reserve 256 samples for validation and the rest for training.
 
-<figure align="center" id=fig-rearc-example>
+<figure align="center" id="fig-rearc-example">
 
 <table align="center" width="80%">
   <tr>
