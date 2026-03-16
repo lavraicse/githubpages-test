@@ -1,30 +1,5 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 35,
-  "isAlive": true,
-  "address": {
-    "streetAddress": "21 2nd Street",
-    "city": "New York",
-    "state": "NY",
-    "postalCode": "10021-3100"
-  },
-  "phoneNumbers": [
-    {
-      "type": "home",
-      "number": "212 555-1234"
-    },
-    {
-      "type": "office",
-      "number": "646 555-4567"
-    }
-  ],
-  "spouse": null
-}
-```
 
 ## Appendix
 
@@ -361,7 +336,7 @@ This section provides supplementary results on individual math benchmarks.
 
 Below, we attach one synthetic sample generated following the process described in Section [Agentic Task (Tool Utilization)](./model_distillation_best_practices.md#agentic-task-tool-utilization).
 
-<details>
+<details markdown="block">
 
 <summary>Task (Click to show/hide)</summary>
 
@@ -481,7 +456,7 @@ Below, we attach one synthetic sample generated following the process described 
 
 </details>
 
-<details>
+<details markdown="block">
 
 <summary>Database (Click to show/hide)</summary>
 
@@ -557,7 +532,7 @@ activation_date = "2023-11-01T10:00:00"
 
 </details>
 
-<details>
+<details markdown="block">
 
 <summary>Trajectory (Click to show/hide)</summary>
 
