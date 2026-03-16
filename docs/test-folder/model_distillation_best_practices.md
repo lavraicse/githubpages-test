@@ -3,17 +3,6 @@
 </script><br><br>
 
 
-<figure align="center" id="qr-code">
-<table align="center" width="80%">
-  <tr>
-    <td align="center" width="100%">
-      <img src="images/qr_code.png" width="50%"><br>
-    </td>
-  </tr>
-</table>
-</figure>
-
-
 # Model Distillation Best Practices
 
 **Authors:** [Xuehan Xiong](mailto:xxman@google.com), [Youbao Tang](mailto:tangyoubao@google.com), [Fei Xia](mailto:feixia@google.com), [Bao Thach](mailto:baothach@google.com), [Joseph Pagadora](mailto:jcpagadora@google.com)
