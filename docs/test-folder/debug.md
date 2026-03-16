@@ -182,12 +182,11 @@ activated = true
 activation_date = "2023-11-01T10:00:00"
 ```
 
-<details>
+<details markdown="block">
 
 <summary>Task (Click to show/hide)</summary>
 
 
-{% raw %}
 ```json
 {
       "id": "gen_7f17b555",
@@ -301,7 +300,6 @@ activation_date = "2023-11-01T10:00:00"
       }
 }
 ```
-{% endraw %} 
 
 </details>
 
