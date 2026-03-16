@@ -112,6 +112,76 @@
 }
 ```
 
+```toml
+[[customers]]
+customer_id = "C1901E3C"
+full_name = "Alice Cooper"
+date_of_birth = "1996-04-12"
+email = "a.cooper.design@example.com"
+phone_number = "506-443-5550"
+account_status = "Active"
+created_at = "2023-11-01T09:00:00"
+goodwill_credit_used_this_year = 0.0
+line_ids = ["LD00B14F"]
+bill_ids = ["B00AC822"]
+
+[[customers.payment_methods]]
+method_type = "Debit Card"
+account_number_last_4 = "9988"
+expiration_date = "05/2027"
+
+[customers.address]
+street = "742 Evergreen Terrace"
+city = "Springfield"
+state = "IL"
+zip_code = "62704"
+
+[[bills]]
+bill_id = "B00AC822"
+customer_id = "C1901E3C"
+period_start = "2025-01-01"
+period_end = "2025-01-31"
+issue_date = "2025-02-01"
+total_due = 55.0
+due_date = "2025-02-15"
+status = "Paid"
+
+[[bills.line_items]]
+description = "Standard Monthly Plan"
+amount = 55.0
+date = "2025-02-01"
+item_type = "Plan Charge"
+
+[[lines]]
+line_id = "LD00B14F"
+phone_number = "506-443-5550"
+status = "Active"
+plan_id = "PFE0A65B"
+device_id = "D49F1F6A"
+data_used_gb = 4.2
+data_refueling_gb = 0.0
+roaming_enabled = true
+contract_end_date = "2025-11-01"
+last_plan_change_date = "2023-11-01"
+last_sim_replacement_date = "2023-11-01"
+
+[[plans]]
+plan_id = "PFE0A65B"
+name = "Standard Creative Plan"
+data_limit_gb = 20.0
+price_per_month = 55.0
+data_refueling_price_per_gb = 5.0
+
+[[devices]]
+device_id = "D49F1F6A"
+device_type = "phone"
+model = "iFrame 15 Pro"
+imei = "990000123456789"
+is_esim_capable = true
+activated = true
+activation_date = "2023-11-01T10:00:00"
+```
+
 <details>
 
 <summary>Task (Click to show/hide)</summary>
